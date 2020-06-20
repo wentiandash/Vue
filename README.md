@@ -1,6 +1,6 @@
 ---
 layout: doc
-permalink: /docs/ui-toolkit/components/html
+permalink: tianyans.com
 title: HTML
-section: UI toolkit
+section: UI
 ---
